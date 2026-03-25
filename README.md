@@ -1,3 +1,4 @@
 # class_23-03
 
-Continuation of the exercises developed in the classroom.
+Some exercises involving arrays developed in the classroom.
+
